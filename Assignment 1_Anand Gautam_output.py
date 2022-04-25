@@ -42,11 +42,7 @@
 
 #['Red', 'Green', 'White', 'Pink', 'Yellow']
 
-
-b1=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-b1=["Purple" if(i=="Black")or(i=="Pink")else i for i in b1]
-print(b1)
-
+ 
 
 #Output 5 b
 
